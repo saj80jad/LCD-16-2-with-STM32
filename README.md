@@ -9,7 +9,7 @@ just add lcd.h and lcd.c to your project.
 | GPIOA1            | EN            |
 | GPIOA2 : GPIOA5   | D4 : D7       |
 
-![wiering](wiering.png)
+![wiering](https://github.com/saj80jad/LCD-16-2-with-STM32/assets/143374386/37dc8b6b-8210-4471-96e2-a76672513ad6)
 
 ## Describe code
 ``` c
@@ -20,5 +20,4 @@ LCD_Clear(); //: is for clearing LCD screen'
 ```
 
 ## list of command
-![command of lcd](lcdCommand.png)![wiering](https://github.com/saj80jad/LCD-16-2-with-STM32/assets/143374386/37dc8b6b-8210-4471-96e2-a76672513ad6)
 ![lcdCommand](https://github.com/saj80jad/LCD-16-2-with-STM32/assets/143374386/654c3d94-0f74-4f86-a8d4-5ca31cc82eb0)
